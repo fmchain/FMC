@@ -1,0 +1,9 @@
+Building TestCoin1
+
+See doc/readme-qt.rst for instructions on building TestCoin1 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TestCoin1.
+
+See doc/build-*.txt for instructions on building TestCoin1d,
+the intended-for-services, no-graphical-interface, reference
+implementation of TestCoin1.
